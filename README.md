@@ -17,8 +17,8 @@ R-squared shows how close data values are to the fitted regression line.
 
 ***R-squared* is calculated as =>** **1 - RSE**
 RSE - Relative Squared Error = ( **sum_of_all**( *y_act* - *y_pred* )^2 ) / ( **sum_of_all**( *y_act* - *y_mean*)^2 )
+
 **or**
-#
 ```python
 from sklearn.metrics import r2_score
 r2_score(y_test, y_pred)
