@@ -16,7 +16,8 @@ R-squared shows how close data values are to the fitted regression line.
 
 R-squared* is calculated as => **1 - RSE**
 
-**RSE - Relative Squared Error**
+**RSE - Relative Squared Error is calculated as:**
+
 ![](https://raw.githubusercontent.com/claxman/Regression_Models/master/Latex_Equations_Images/RSE.png)
 
 **or**
