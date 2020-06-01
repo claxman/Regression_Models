@@ -14,9 +14,10 @@ You can try to plot your data over the *x-y* axis and try to deduce the relation
 ##### Or you can just evaluate all the models with *R-squared*.
 R-squared shows how close data values are to the fitted regression line.
 
-***R-squared* is calculated as =>** **1 - RSE**
+R-squared* is calculated as => **1 - RSE**
 
-RSE - Relative Squared Error = ( **sum_of_all**( *y_act* - *y_pred* )^2 ) / ( **sum_of_all**( *y_act* - *y_mean*)^2 )
+**RSE - Relative Squared Error**
+![](https://raw.githubusercontent.com/claxman/Regression_Models/master/Latex_Equations_Images/RSE.png)
 
 **or**
 ```python
